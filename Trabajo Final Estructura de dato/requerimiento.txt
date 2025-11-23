@@ -1,0 +1,2 @@
+scapy # La usaremos para hacer un escaneo ARP (preguntar "¿quién está ahí?") y obtener MACs e IPs de los dispositivos conectados.
+rich # Para mantener esa estética profesional de consola (tablas y alertas)
